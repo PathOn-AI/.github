@@ -1,3 +1,5 @@
+Hi there 👋
+
 ## Join the community!
 <p align="left">
     <a href="https://discord.com/invite/V6cNKmuR7Q">
